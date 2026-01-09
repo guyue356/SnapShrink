@@ -1,8 +1,8 @@
  
 
 # SnapShrink
-
-一个使用 Pillow(PIL) 的图片压缩示例与工具集，演示如何通过无损与有损方法减小 PNG 文件大小。
+- 工具部署（可以直接使用）：https://guyuesnapshrink.netlify.app/ （基于Google Build构建）
+- 一个使用 Pillow(PIL) 的图片压缩示例与工具集，演示如何通过无损与有损方法减小 PNG 文件大小。
 
 ## 主要内容
 - 无损优化：使用 `optimize=True` 与 `compress_level` 来减少 PNG 的编码冗余。
